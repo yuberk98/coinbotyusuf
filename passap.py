@@ -1,0 +1,2 @@
+apiKey="18UKBV79K0esJUipanPXOwASjqqNyla7Ny5cN8SedVmOlQnIzgGv4D2te89KPoi5"
+secretKey="8CiW2o7m2AXZqkleFg5TLAjgxki5txl5HzQHAgbTqV5tuIQCEqR0Fz5srBzhs6Zj"
